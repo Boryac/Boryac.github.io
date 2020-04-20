@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boryac.github.io/</id>
     <title>Boryac</title>
-    <updated>2020-04-20T09:49:30.118Z</updated>
+    <updated>2020-04-20T09:58:08.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boryac.github.io/"/>
     <link rel="self" href="https://boryac.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://boryac.github.io/images/avatar.png</logo>
     <icon>https://boryac.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Boryac</rights>
+    <entry>
+        <title type="html"><![CDATA[提问的智慧]]></title>
+        <id>https://boryac.github.io/saohua/</id>
+        <link href="https://boryac.github.io/saohua/">
+        </link>
+        <updated>2020-04-20T09:57:58.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文章呢！！！]]></title>
         <id>https://boryac.github.io/hello-boryac/</id>
