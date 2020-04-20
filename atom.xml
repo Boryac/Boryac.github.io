@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://boryac.github.io/</id>
+    <title>Boryac</title>
+    <updated>2020-04-20T05:35:44.043Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://boryac.github.io/"/>
+    <link rel="self" href="https://boryac.github.io/atom.xml"/>
+    <subtitle>因为主站资源过多导致访问过慢，现将资源公布转移到副站，今后的资源发布也会在副站进行，主站主要进行生活琐事的公主和一些其他的小事.</subtitle>
+    <logo>https://boryac.github.io/images/avatar.png</logo>
+    <icon>https://boryac.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Boryac</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://boryac.github.io/hello-gridea/</id>
+        <link href="https://boryac.github.io/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
