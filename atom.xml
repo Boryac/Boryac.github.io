@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://boryac.github.io/</id>
     <title>Boryac</title>
-    <updated>2020-04-23T11:18:01.910Z</updated>
+    <updated>2020-04-23T11:53:43.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://boryac.github.io/"/>
     <link rel="self" href="https://boryac.github.io/atom.xml"/>
-    <subtitle>因为主站资源过多导致访问过慢，现将资源公布转移到副站，今后的资源发布也会在副站进行，主站主要进行生活琐事的公主和一些其他的小事.</subtitle>
+    <subtitle>因为主站资源过多导致访问过慢，现将资源公布转移到副站，今后的资源发布也会在副站进行，主站主要进行生活琐事的分享和一些其他的小事.</subtitle>
     <logo>https://boryac.github.io/images/avatar.png</logo>
     <icon>https://boryac.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Boryac</rights>
+    <entry>
+        <title type="html"><![CDATA[网站的修改及原因]]></title>
+        <id>https://boryac.github.io/xiugai/</id>
+        <link href="https://boryac.github.io/xiugai/">
+        </link>
+        <updated>2020-04-23T11:43:29.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[提问的智慧]]></title>
         <id>https://boryac.github.io/saohua/</id>
